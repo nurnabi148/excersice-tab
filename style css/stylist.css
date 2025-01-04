@@ -4,3 +4,7 @@ div{
     margin-bottom: 10px;
     font-size: large;
 }
+li{
+    color: rgb(223, 28, 190);
+    font-weight:bolder;
+}
